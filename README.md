@@ -1,2 +1,2 @@
 **Typing Practice**  
-A application to practice typing
+An application to practice typing
