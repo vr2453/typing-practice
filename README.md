@@ -1,7 +1,7 @@
 
 # Typing Practice
 
-A application to practice typing.
+An application to practice typing.
 
 ## Try It Out
 You can try the live version of this project: https://vr2453.github.io/typing-practice/
